@@ -1,5 +1,5 @@
 ### Wellcome! 
-I'm Barbara, I'm a Translation studant with a desiry to learn about programming! 
+I'm Barbara, I'm a Translation student with a desiry to learn about programming! 
 My twitter is @mybarbvalentine
 
 - 🔭 I’m currently working on translation eng-port (BR)
